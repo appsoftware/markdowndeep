@@ -274,7 +274,7 @@
     <EmbeddedResource Include="testfiles\phpmarkdown\Inline HTML %28Span%29.html" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Inline HTML comments.html" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Ins &amp; del.html" />
-    <EmbeddedResource Include="testfiles\phpmarkdown\Links, inline style.html" />
+    <EmbeddedResource Include="testfiles\phpmarkdown\Links inline style.html" />
     <EmbeddedResource Include="testfiles\phpmarkdown\MD5 Hashes.html" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Nesting.html" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Parens in URL.html" />
@@ -328,7 +328,7 @@
     <EmbeddedResource Include="testfiles\phpmarkdown\Inline HTML %28Span%29.text" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Inline HTML comments.text" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Ins &amp; del.text" />
-    <EmbeddedResource Include="testfiles\phpmarkdown\Links, inline style.text" />
+    <EmbeddedResource Include="testfiles\phpmarkdown\Links inline style.text" />
     <EmbeddedResource Include="testfiles\phpmarkdown\MD5 Hashes.text" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Nesting.text" />
     <EmbeddedResource Include="testfiles\phpmarkdown\Parens in URL.text" />
